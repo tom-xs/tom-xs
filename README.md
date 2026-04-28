@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi
+
+<div align="center">
+  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvisit.museum.wa.gov.au%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge_%2Fpublic%2F2023-03%2FNumbat_AdobeStock_247887006.jpeg%3Fh%3De0652c87%26itok%3DCO96x48K&f=1&nofb=1&ipt=c781e0d5e32df0d5ff77c573425904f961205138d6222ed537acb5ab4dd0da61"  />
+</div>
+
+I'm Tomás, a QA Engineer and Localization Software Project Manager @ RoundTable Studio working for Motorola Mobility (a Lenovo Company);
+  
+- ⚙️ I use daily: .java, .python, .kotlin
+- 🌱 I’m currently learning: Embedded Systems, Cloud computing, & Backend engineering
+- 💬 ping me about localization, testing, SDLC 
 
 <!--
 **tom-xs/tom-xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
