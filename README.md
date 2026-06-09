@@ -7,8 +7,8 @@
 I'm Tomás, a QA Engineer and Localization Software Project Manager @ RoundTable Studio working for Motorola Mobility (a Lenovo Company);
   
 - ⚙️ I use daily: .java, .python, .kotlin
-- 🌱 I’m currently learning: Embedded Systems, Cloud computing, & Backend engineering
-- 💬 ping me about localization, testing, SDLC 
+- 🌱 I’m currently learning: Go Lang, Cloud computing, & Backend engineering
+- 💬 ping me about localization, testing, SDLC
 
 <!--
 **tom-xs/tom-xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
